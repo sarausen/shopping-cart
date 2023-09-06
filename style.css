@@ -807,14 +807,12 @@ body.MakeFloatingCart div.cart-icon-bottom{z-index:300;}
 }
 .cart-item:hover .delete-item{display:block;cursor:pointer}
 
-
 #info{
 	position: absolute;
 	top: 20px;
 	left: 676px;
 	text-align: center;
 	width: 413px;
-
 }
 #info p{font-size:15px; padding:3px;color:#b1b1b3}
 #info a{text-decoration:none;} 
