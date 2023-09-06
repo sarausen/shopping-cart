@@ -839,9 +839,6 @@ body.MakeFloatingCart div.cart-icon-bottom{z-index:300;}
  		    transition: all 500ms ease-in-out;
 }
 
-
-
-
 /* ---------------- */
 .floating-image-large{
 	position:absolute;
@@ -936,7 +933,6 @@ div.sku strong{
     font-weight: 700;
 	margin-bottom:3px;
 }
-
 
 .colors-large{
 	margin-bottom:38px;
